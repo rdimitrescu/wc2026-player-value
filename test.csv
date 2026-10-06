@@ -1,0 +1,248 @@
+Position,Age,Appearances,Goals,Club,Club League,Country,Peak MV,Apex MV,Current MV
+DF,25,37,2,PSV Eindhoven,NL1,United States,30000000,False,18000000
+FW,25,29,6,Nottingham Forest,GB1,Switzerland,40000000,False,35000000
+MF,25,11,1,Rangers,SC1,Belgium,12000000,True,12000000
+MF,34,30,5,AEL,GR1,DR Congo,8000000,False,300000
+DF,27,56,1,Celtic,SC1,Canada,10000000,False,8000000
+FW,23,18,5,Manchester United,GB1,Cote d'Ivoire,50000000,True,50000000
+FW,25,40,10,Persepolis,Unknown,Uzbekistan,2500000,False,2000000
+FW,24,8,3,Union Saint-Gilloise,BE1,Canada,17000000,True,17000000
+DF,30,44,3,Mamelodi Sundowns,Unknown,South Africa,1800000,True,1800000
+FW,27,29,10,Al-Nasr,Unknown,Iran,5000000,False,4500000
+FW,24,22,4,Arsenal,GB1,Brazil,85000000,False,45000000
+FW,29,85,23,Rennes,FR1,Switzerland,22000000,False,12000000
+MF,25,4,0,Mamelodi Sundowns,Unknown,South Africa,1400000,True,1400000
+MF,33,89,9,Toronto FC,MLS1,Canada,6000000,False,1200000
+DF,34,54,1,Port,Unknown,Iraq,500000,False,100000
+MF,24,2,0,Palmeiras,PO1,Brazil,1100000,False,300000
+FW,23,15,3,Juventus,IT1,Portugal,36000000,False,30000000
+DF,29,38,3,FC Cincinnati,MLS1,United States,5000000,False,3500000
+FW,25,9,1,Orlando Pirates,Unknown,South Africa,1000000,True,1000000
+MF,26,26,1,RKC Waalwijk,NL1,Curacao,1400000,False,400000
+MF,23,38,4,Tottenham Hotspur,GB1,Senegal,45000000,False,32000000
+DF,28,27,1,RKC Waalwijk,NL1,Curacao,500000,False,375000
+DF,20,6,0,Chelsea,GB1,Senegal,25000000,True,25000000
+DF,21,15,2,Villarreal,ES1,United States,3500000,True,3500000
+FW,32,74,12,Esteghlal,Unknown,Uzbekistan,3000000,False,1000000
+DF,33,82,3,Real Madrid,ES1,Germany,50000000,False,9000000
+MF,29,12,0,Puskás Akadémia,NL1,Cape Verde,1500000,False,1000000
+DF,33,29,0,Nasaf,Unknown,Uzbekistan,700000,False,450000
+FW,29,33,7,Real Sociedad,ES1,Portugal,40000000,False,6000000
+DF,29,40,3,SC Freiburg,L1,Austria,20000000,False,12000000
+MF,23,11,1,Atlético Madrid,ES1,Argentina,40000000,True,40000000
+DF,28,52,4,Fulham,GB1,United States,35000000,False,25000000
+FW,26,47,11,Al-Nassr,SA1,Saudi Arabia,1000000,False,325000
+MF,25,25,0,Al-Nassr,SA1,Saudi Arabia,1400000,True,1400000
+DF,29,31,1,Al-Shorta,Unknown,Iraq,400000,False,350000
+MF,23,2,0,Universidad de Chile,BRA1,Argentina,4000000,False,2800000
+DF,30,53,0,Gil Vicente,PO1,Cote d'Ivoire,8000000,False,3000000
+MF,26,33,3,Werder Bremen,L1,Austria,17000000,False,15000000
+DF,32,66,12,Barcelona,ES1,Portugal,70000000,False,9000000
+MF,27,30,7,Manchester City,GB1,Netherlands,70000000,False,60000000
+FW,27,48,19,Liverpool,GB1,Netherlands,70000000,False,65000000
+DF,24,6,0,Monterrey,MEX1,Mexico,7500000,False,2000000
+MF,29,67,0,Cruz Azul,MEX1,Mexico,10000000,False,5000000
+GK,32,3,0,Atlético Madrid,ES1,Argentina,20000000,False,3000000
+FW,29,30,3,Sparta Prague,TS1,Czech Republic,5000000,False,2700000
+MF,23,40,8,Bayern Munich,L1,Germany,140000000,False,120000000
+DF,27,23,0,Auckland FC,AUS1,New Zealand,450000,False,400000
+GK,30,21,0,Nottingham Forest,GB1,Scotland,10000000,False,1500000
+DF,24,23,0,Arsenal,GB1,Netherlands,70000000,True,70000000
+MF,29,2,0,Aston Villa,GB1,Argentina,35000000,False,18000000
+MF,21,18,0,Sunderland,GB1,DR Congo,30000000,True,30000000
+FW,21,6,2,Paris Saint-Germain,FR1,France,90000000,True,90000000
+DF,35,43,2,Flamengo,BRA1,Brazil,50000000,False,1500000
+MF,28,36,4,Palmeiras,BRA1,Colombia,17000000,False,15000000
+MF,20,8,0,Tottenham Hotspur,GB1,Sweden,40000000,True,40000000
+MF,27,45,4,Qatar SC,Unknown,Jordan,600000,True,600000
+MF,29,37,0,Al-Nassr,SA1,Saudi Arabia,1100000,False,800000
+DF,31,37,3,Al-Ettifaq,SA1,Scotland,6000000,False,2500000
+MF,27,72,6,Arsenal,GB1,England,120000000,True,120000000
+FW,30,45,6,Kasımpaşa,TR1,Türkiye,11500000,False,3000000
+DF,19,1,0,Manchester United,GR1,Spain,1000000,False,150000
+MF,23,36,9,Borussia Mönchengladbach,L1,United States,42000000,False,4000000
+MF,25,14,4,Atlético Madrid,ES1,Argentina,27000000,False,20000000
+DF,29,59,3,Roma,IT1,Türkiye,20000000,False,12000000
+GK,20,0,0,Strasbourg,FR1,Belgium,22000000,True,22000000
+MF,22,6,2,Guadalajara,MEX1,Mexico,8000000,True,8000000
+DF,23,0,0,NEC,NL1,Türkiye,10000000,False,5000000
+DF,26,20,0,Al-Ahli,SA1,Saudi Arabia,1200000,True,1200000
+FW,27,29,4,Copenhagen,DK1,Tunisia,3500000,True,3500000
+DF,23,2,0,Orlando Pirates,Unknown,South Africa,850000,True,850000
+FW,22,31,4,Strasbourg,FR1,Paraguay,22000000,True,22000000
+DF,22,0,0,Philadelphia Union,MLS1,South Africa,2000000,True,2000000
+FW,33,103,59,Olympiacos,GR1,Iran,20000000,False,2500000
+DF,31,58,5,Manchester City,GB1,Netherlands,42000000,False,15000000
+MF,25,7,1,Rijeka,KR1,Croatia,10000000,False,9000000
+DF,26,23,0,Al-Nassr,SA1,Saudi Arabia,1400000,True,1400000
+GK,37,40,0,Atlas,MEX1,Colombia,2500000,False,450000
+DF,25,1,0,Al-Ahli,SA1,Saudi Arabia,1000000,True,1000000
+FW,26,56,16,Liverpool,GB1,Sweden,140000000,False,100000000
+DF,29,3,0,Cruz Azul,MEX1,Colombia,6000000,False,5500000
+GK,36,11,0,TSG Hoffenheim,L1,Germany,10000000,False,3000000
+FW,24,17,2,Montpellier,KR1,DR Congo,9000000,False,2000000
+DF,22,5,0,Molde,NO1,South Africa,2000000,True,2000000
+MF,33,11,1,Al-Wehdat,Unknown,Jordan,250000,False,150000
+MF,26,37,0,Paris Saint-Germain,FR1,Portugal,110000000,True,110000000
+MF,22,32,6,Al-Qadsiah,SA1,Saudi Arabia,4500000,True,4500000
+MF,22,18,1,Zürich,C1,Curacao,1000000,False,700000
+FW,26,34,3,Manchester City,GB1,Ghana,75000000,True,75000000
+FW,24,10,4,Newcastle United,GB1,Germany,70000000,False,65000000
+FW,29,2,0,Southampton,SC1,Scotland,200000,True,200000
+FW,23,30,6,Athletic Bilbao,ES1,Spain,70000000,False,50000000
+MF,27,37,8,Leeds United,GB1,Japan,10000000,True,10000000
+DF,29,22,2,Rangers,SC1,Scotland,4500000,False,2000000
+MF,28,41,0,Bodø/Glimt,NO1,Norway,8000000,True,8000000
+DF,28,37,3,Slovan Bratislava,Unknown,Panama,2500000,True,2500000
+MF,27,31,1,Viking,NO1,New Zealand,3000000,True,3000000
+GK,22,0,0,Barnsley,Unknown,Canada,600000,False,550000
+DF,30,45,1,Bayern Munich,L1,Germany,40000000,False,30000000
+MF,32,101,10,Mazatlán,MEX1,Panama,1500000,False,650000
+FW,26,33,2,Galatasaray,TR1,Türkiye,30000000,True,30000000
+GK,23,0,0,Hamburger SV,L1,Norway,3500000,False,3000000
+DF,38,80,1,Charlotte FC,MLS1,United States,4000000,False,200000
+GK,23,6,0,Lechia Gdańsk,PL1,New Zealand,750000,True,750000
+GK,25,14,0,Sochaux,FR1,Haiti,150000,False,100000
+FW,23,0,0,Midtjylland,DK1,Türkiye,6000000,True,6000000
+GK,30,12,0,Arsenal,GB1,Spain,40000000,False,35000000
+DF,25,5,0,Rosario Central,ARG1,Paraguay,2500000,True,2500000
+MF,24,0,0,Porto,PO1,Argentina,35000000,False,32000000
+MF,24,25,1,Liverpool,GB1,Netherlands,90000000,True,90000000
+MF,30,74,16,Galatasaray,TR1,Germany,100000000,False,20000000
+MF,20,2,0,PSV Eindhoven,NL1,Austria,18000000,True,18000000
+MF,31,83,11,Atalanta,IT1,Croatia,28000000,False,7000000
+MF,22,4,1,Racing Santander,Unknown,Colombia,5000000,True,5000000
+DF,34,6,0,Newcastle United,GB1,England,12000000,False,5000000
+MF,30,55,5,Cobresal,Unknown,Panama,350000,True,350000
+GK,33,84,0,Tractor,PO1,Iran,3500000,False,1200000
+FW,27,9,2,Inter Miami CF,MLS1,Mexico,12000000,True,12000000
+DF,23,4,0,Al-Qadsiah,SA1,Saudi Arabia,1400000,True,1400000
+MF,30,32,0,Vancouver Whitecaps FC,MLS1,Paraguay,4500000,False,4000000
+DF,23,1,0,Mechelen,BE1,Morocco,3000000,True,3000000
+MF,35,116,5,Al-Duhail,Unknown,Qatar,900000,False,175000
+DF,21,3,0,Toluca,MEX1,Mexico,3000000,True,3000000
+FW,26,26,6,Orlando Pirates,Unknown,South Africa,1200000,True,1200000
+FW,26,17,3,Sporting CP,PO1,Portugal,35000000,True,35000000
+MF,24,2,0,UNAM,MEX1,Mexico,8000000,True,8000000
+MF,25,3,0,Duhok,Unknown,Iraq,500000,True,500000
+MF,24,14,2,Atlanta United FC,MLS1,Paraguay,3500000,False,3000000
+MF,32,97,25,Borussia Dortmund,L1,Austria,42000000,False,7000000
+FW,21,0,0,Lille,FR1,Belgium,30000000,True,30000000
+DF,23,2,0,Lille,FR1,Belgium,20000000,True,20000000
+DF,25,21,0,Galatasaray,TR1,Türkiye,6000000,False,5000000
+MF,29,73,0,Real Betis,ES1,Morocco,30000000,False,12000000
+FW,32,74,24,FC Augsburg,L1,Austria,20000000,False,1500000
+DF,32,44,2,Athletic Bilbao,ES1,Spain,75000000,False,9000000
+FW,24,15,4,Bayern Munich,L1,France,140000000,True,140000000
+DF,34,66,2,Hibernian,SC1,Scotland,4500000,False,200000
+FW,26,24,13,Real Madrid,ES1,Morocco,45000000,False,35000000
+DF,25,30,1,Norwich City,GB1,Panama,4800000,False,4500000
+DF,28,18,1,Aston Villa,GB1,England,40000000,True,40000000
+MF,21,28,5,Barcelona,ES1,Spain,90000000,False,30000000
+DF,30,7,0,Pyramids,TR1,Egypt,1500000,False,600000
+DF,31,32,1,Mamelodi Sundowns,Unknown,South Africa,1400000,False,1200000
+MF,30,23,0,Udinese,IT1,Sweden,4000000,True,4000000
+MF,24,14,1,ZED,Unknown,Egypt,1500000,True,1500000
+DF,24,5,0,Auxerre,FR1,Cote d'Ivoire,9000000,True,9000000
+DF,21,18,1,West Ham United,GB1,Senegal,28000000,True,28000000
+MF,23,22,2,Utrecht,NL1,Iraq,4000000,False,1000000
+MF,31,69,15,Bayern Munich,L1,Germany,70000000,False,15000000
+GK,25,1,0,Viktoria Plzeň,TS1,Austria,2200000,True,2200000
+MF,28,28,1,Borussia Dortmund,L1,Türkiye,17000000,False,3500000
+FW,25,22,3,Nordsjælland,DK1,Egypt,3500000,False,3200000
+FW,30,25,5,Al Ain,Unknown,Morocco,8000000,False,6000000
+DF,26,36,3,Crystal Palace,GB1,United States,25000000,True,25000000
+FW,31,25,2,Athletic Bilbao,ES1,Ghana,50000000,False,10000000
+GK,28,52,0,Al-Sadd,Unknown,Qatar,850000,False,700000
+GK,27,12,0,Stoke City,GB1,Sweden,12000000,True,12000000
+DF,24,25,1,Pogoń Szczecin,Unknown,Iraq,600000,False,450000
+DF,23,24,0,Borussia Mönchengladbach,L1,United States,12000000,False,7000000
+FW,24,0,0,Parma,IT1,Argentina,15000000,True,15000000
+FW,30,47,7,Cremonese,IT1,Paraguay,10000000,False,2000000
+GK,37,37,0,Fenerbahçe,TR1,Türkiye,5000000,False,500000
+FW,24,9,3,Celtic,SC1,Sweden,14000000,True,14000000
+MF,28,19,0,Auxerre,FR1,Ghana,7500000,False,3500000
+MF,27,25,3,Arsenal,GB1,Spain,80000000,True,80000000
+FW,23,7,0,Borussia Dortmund,L1,Germany,40000000,True,40000000
+MF,20,10,1,Paris Saint-Germain,FR1,France,60000000,True,60000000
+MF,34,86,11,Bologna,IT1,Switzerland,25000000,False,4000000
+MF,24,10,0,Universidad Católica,Unknown,Panama,1200000,True,1200000
+DF,22,8,3,Benfica,PO1,Cape Verde,5000000,True,5000000
+MF,25,4,0,Mallorca,ES1,Portugal,15000000,True,15000000
+DF,28,26,1,Manchester United,GB1,Argentina,50000000,False,40000000
+DF,26,6,0,Al-Hussein,Unknown,Jordan,200000,False,50000
+DF,25,35,1,Wrexham,Unknown,New Zealand,3000000,True,3000000
+MF,27,67,8,Juárez,MEX1,Panama,2500000,True,2500000
+MF,25,24,10,Reims,FR1,Japan,12000000,False,9000000
+FW,25,30,10,FC Dallas,MLS1,Haiti,1800000,False,1200000
+DF,25,20,2,Werder Bremen,L1,Japan,15000000,False,7500000
+GK,32,2,0,Sporting CP,PO1,Portugal,15000000,False,7000000
+GK,30,25,0,FC St. Pauli,L1,Bosnia-Herzegovina,4500000,True,4500000
+MF,30,90,12,AEK Athens,GR1,Mexico,9000000,False,7000000
+GK,30,2,0,Neftchi,Unknown,Uzbekistan,500000,True,500000
+DF,24,3,0,Benfica,PO1,Portugal,32000000,False,28000000
+FW,29,7,4,VfB Stuttgart,L1,Germany,28000000,False,22000000
+FW,28,33,3,Inter Milan,IT1,France,75000000,False,50000000
+MF,32,31,0,Al-Ittihad,IT1,Brazil,800000,False,200000
+MF,25,46,1,RB Leipzig,L1,Austria,22000000,True,22000000
+FW,23,10,1,Celtic,SC1,Tunisia,6000000,False,5000000
+DF,26,16,2,Juventus,IT1,Sweden,13000000,True,13000000
+DF,27,2,0,Polokwane City,Unknown,South Africa,900000,True,900000
+MF,23,6,0,Milan,IT1,Switzerland,32000000,False,30000000
+DF,38,130,8,Benfica,PO1,Argentina,35000000,False,1000000
+DF,23,0,0,Mjällby AIF,SE1,Sweden,3000000,True,3000000
+DF,24,15,0,Pari Nizhny Novgorod,RU1,Panama,1000000,True,1000000
+DF,30,18,0,Al-Shorta,Unknown,Iraq,500000,True,500000
+DF,23,9,0,Chelsea,GB1,France,35000000,True,35000000
+DF,31,17,0,Celta Vigo,ES1,Sweden,6500000,False,5000000
+FW,30,12,1,Persepolis,Unknown,Iran,1700000,True,1700000
+MF,21,1,0,Braga,PO1,Türkiye,6000000,True,6000000
+MF,32,30,1,Valencia,ES1,Argentina,28000000,False,5000000
+MF,22,19,4,Sunderland,GB1,Senegal,32000000,True,32000000
+MF,20,0,0,Pachuca,MEX1,Mexico,6000000,True,6000000
+FW,34,126,53,Al-Nassr,SA1,Senegal,150000000,False,7000000
+MF,29,9,1,Mainz 05,L1,Germany,22000000,False,17000000
+GK,32,22,0,Millwall,Unknown,New Zealand,1000000,True,1000000
+FW,32,12,1,Miami FC,GB1,Netherlands,15000000,False,1800000
+DF,35,44,1,Neftchi,Unknown,Uzbekistan,900000,False,225000
+MF,29,39,1,Sepahan,BE1,Iran,1200000,False,1000000
+DF,32,58,1,Abha,NL1,Curacao,500000,False,450000
+MF,29,63,2,Ironi Kiryat Shmona,Unknown,Panama,750000,True,750000
+GK,26,5,0,San Lorenzo,ARG1,Paraguay,5000000,True,5000000
+MF,29,33,1,Espanyol,ES1,DR Congo,3800000,False,2500000
+MF,30,43,4,Dynamo Moscow,RU1,Mexico,9000000,False,7000000
+MF,27,66,5,Guadalajara,MEX1,Mexico,7500000,True,7500000
+DF,34,42,3,River Plate,ARG1,Argentina,20000000,False,1000000
+DF,28,43,2,Manchester United,GB1,Morocco,32000000,False,20000000
+MF,22,15,2,FC Augsburg,L1,Tunisia,7500000,False,5000000
+FW,33,124,89,Napoli,IT1,Belgium,100000000,False,12000000
+DF,31,52,8,Cagliari,IT1,Colombia,30000000,False,3000000
+DF,24,11,0,Borussia Dortmund,L1,Sweden,22000000,True,22000000
+DF,23,12,0,Trabzonspor,TR1,Cape Verde,11000000,True,11000000
+MF,30,20,1,Benfica,PO1,Norway,20000000,False,17000000
+FW,22,7,0,Preston North End,Unknown,Canada,6000000,True,6000000
+FW,24,0,0,West Ham United,GB1,Netherlands,30000000,True,30000000
+DF,22,5,0,Borussia Mönchengladbach,L1,"Korea, South",6000000,True,6000000
+GK,32,30,0,Orlando City SC,MLS1,Canada,3500000,False,2000000
+GK,25,0,0,Beşiktaş,TR1,Türkiye,10000000,False,4000000
+MF,25,11,1,Viktoria Plzeň,TS1,Bosnia-Herzegovina,4500000,True,4500000
+FW,30,50,10,Charlton Athletic,Unknown,Scotland,4000000,False,1000000
+MF,33,32,7,Club Brugge,BE1,Belgium,16000000,False,6000000
+FW,24,5,1,Middlesbrough,NL1,Curacao,6000000,False,3000000
+DF,29,3,0,Bournemouth,GB1,Argentina,24000000,False,22000000
+FW,20,4,0,Eintracht Frankfurt,L1,Türkiye,45000000,True,45000000
+DF,27,34,3,Nice,FR1,Egypt,4000000,False,3000000
+GK,24,0,0,Charleroi,BE1,Cote d'Ivoire,1700000,False,800000
+DF,33,21,0,Sparta Prague,TS1,Czech Republic,1500000,False,600000
+MF,27,22,0,Los Angeles FC,MLS1,Canada,3500000,False,800000
+DF,27,27,0,Atalanta,IT1,Sweden,30000000,False,22000000
+FW,27,1,0,Malmö FF,SE1,Sweden,2500000,False,1200000
+DF,26,14,1,Brighton & Hove Albion,GB1,Netherlands,30000000,False,25000000
+FW,24,35,2,Real Betis,ES1,Morocco,30000000,True,30000000
+DF,25,17,4,Brighton & Hove Albion,GB1,Belgium,22000000,True,22000000
+MF,35,78,8,Hradec Králové,TS1,Czech Republic,10000000,False,375000
+FW,31,10,3,UNAM,MEX1,Mexico,3000000,False,1500000
+DF,32,87,3,Manchester City,GB1,England,60000000,False,15000000
+MF,23,18,1,Al-Zawraa,Unknown,Jordan,450000,True,450000
+FW,30,37,7,Spartak Moscow,RU1,DR Congo,11000000,False,4000000
+MF,24,1,0,Sogdiana,RU1,Uzbekistan,700000,True,700000
